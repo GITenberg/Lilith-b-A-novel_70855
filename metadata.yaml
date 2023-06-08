@@ -1,0 +1,36 @@
+_repo: Lilith-b-A-novel_70855
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Southworth, Emma Dorothy Eliza Nevitte
+    aliases:
+    - Nevitt, Dorothy Emma Eliza
+    - Southworth, E. D. E. N.
+    - Southworth, Emma D. E. N.
+    - Southworth, Mrs. E. D. E. N.
+    birthdate: 1819
+    deathdate: 1899
+    gutenberg_agent_id: '1307'
+    url: http://www.gutenberg.org/2009/agents/1307
+    wikipedia: https://en.wikipedia.org/wiki/E._D._E._N._Southworth
+description: A sequel to "The unloved wife."
+gutenberg_issued: '2023-05-25'
+identifiers:
+  gutenberg: '70855'
+language: en
+pgterms:marc904: https://archive.org/details/lilithnovel00soutiala
+pgterms:marc905: 20210227194622southworth
+pgterms:marc906: '1881'
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $bA. L. Burt Company, $c1881, copyright 1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Wives -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Lilith : $b A novel'
+url: http://www.gutenberg.org/ebooks/70855
